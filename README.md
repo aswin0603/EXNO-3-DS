@@ -217,6 +217,7 @@ plt.show()
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the given data is read and performed Feature Encoding and Transformation process and saved the data to the file.
 
-       
+## NAME : ASWIN B
+## Register Number : 212224110007
